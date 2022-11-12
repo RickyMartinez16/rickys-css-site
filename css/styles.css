@@ -1,3 +1,23 @@
 body{
+    margin:0px
+}
+
+.top{
+    background-color: #FFEFD6;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+.middle{
+    height: 200px;
+    width: 200px;
     background-color: blue;
+}
+
+.bottom{
+    height: 200px;
+    width: 200px;
+    background-color: red;
 }
