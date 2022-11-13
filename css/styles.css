@@ -15,7 +15,13 @@ h1{
     font-size: 45px;
 }
 
+.middle-container{
 
+}
+
+.bottom-container{
+
+}
 
 .top-cloud{
     position: absolute;
@@ -26,4 +32,11 @@ h1{
 .bottom-cloud{
     position: absolute;
     left: 150px
+}
+
+.main-img{
+    height: 200px;
+    width: 150px;
+    border-radius: 40px;
+    padding-top: 10px;
 }
