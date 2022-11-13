@@ -12,19 +12,10 @@ h1{
     margin-top: 0px;
     padding-top: 30px;
     font-family: 'Caveat', cursive;
+    font-size: 45px;
 }
 
-.middle{
-    height: 200px;
-    width: 200px;
-    background-color: blue;
-}
 
-.bottom{
-    height: 200px;
-    width: 200px;
-    background-color: red;
-}
 
 .top-cloud{
     position: absolute;
