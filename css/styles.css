@@ -6,6 +6,7 @@ body{
 
 .top{
     background-color: #FFEFD6;
+    margin-bottom: 30px;
 }
 
 h1{
@@ -55,12 +56,14 @@ h2{
 }
 
 .btn{
-    color: #3A8891
+    color: #3A8891;
+    text-decoration: none;
 }
 
 .footer-link{
     color: #3A8891;
     margin: 0px 4px;
+    text-decoration: none;
 }
 
 .skill-row{
