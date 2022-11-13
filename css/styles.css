@@ -17,9 +17,7 @@ h1{
     color: #0E5E6F;
 }
 
-.middle-container{
 
-}
 
 .bottom-container{
     background-color: #F2DEBA;
@@ -61,7 +59,8 @@ h2{
 }
 
 .footer-link{
-    color: #3A8891
+    color: #3A8891;
+    margin: 0px 4px;
 }
 
 .skill-row{
