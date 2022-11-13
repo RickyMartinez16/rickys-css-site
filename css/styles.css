@@ -64,4 +64,19 @@ h2{
 
 .skill-row{
     width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: double;
+}
+
+.chillie{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
 }
